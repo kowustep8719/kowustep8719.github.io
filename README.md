@@ -74,9 +74,9 @@ This document outlines my preliminary strategy for fulfilling the ePortfolio cri
 
 I conducted code review videos for each of the three artifacts initially included in my ePortfolio plan, utilizing ScreenPal. I evaluated the original code for weaknesses, restrictions, and vulnerabilities in my code review and outline my proposed improvements.
 
-* Code Analysis: My analysis targeted various aspects of the codebase, including its structure, logic, efficiency, functionality, security, testing, commenting, and documentation.
-* Existing functionality: I conducted a thorough evaluation of the existing codebase, providing a detailed examination of its features and functions.
-* Enhancements: Following the code analysis, I outlined a comprehensive plan for enhancements aimed at addressing the identified issues.
+* Code Analysis: Target areas for improvement such as structure, logic, efficiency, functionality, security, testing, commenting, and documenting. My analysis targeted various aspects of the codebase, including its structure, logic, efficiency, functionality, security, testing, commenting, and documentation.
+* Existing functionality: Provide a detailed walkthrough focused on the features and functionality of the existing code. I conducted a thorough evaluation of the existing codebase, providing a detailed examination of its features and functions.
+* Enhancements: Provide a walkthrough of planned enhancements that address issues raised in the code analysis. Highlight the specific skills you will demonstrate and address the alignment for each of the five course outcomes across the three categories. Following the code analysis, I outlined a comprehensive plan for enhancements aimed at addressing the identified issues including how each of the five course outcome is achieved.
 
 ### Enhancement: Software Engineering and Design
 

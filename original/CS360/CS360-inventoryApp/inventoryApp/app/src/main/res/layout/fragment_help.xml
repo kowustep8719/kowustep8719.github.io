@@ -1,0 +1,12 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.help.HelpFragment">
+    <ir.drax.constraintaccordionlist.AccordionList
+        android:id="@+id/accordion"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="MissingClass" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -12,10 +12,10 @@ Through my ePortfolio, I want to share my passion for computer science and dedic
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Future Career Preparation_](#future-career-preparation "Future Career Preparation")<br/>
 &nbsp;[Refinement Plan and Code Review](#codereview "Refinement Plan and Code Review")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Code Review Videos Link_](#code-reviews-video-link "Artifacts Code Review Videos Link")<br/>
-&nbsp;[Software Design and Engineering](#softwaredesign "Software Design and Engineering")<br/>
+&nbsp;[Software Design and Engineering](#softwaredesign "Software Engineering and Design")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Software Design and Engineering_](#artifact-software-design-and-engineering "Artifact Software Design and Engineering")<br/>
 &nbsp;[Algorithms and Data Structure](#algorithms "Algorithms and Data Structure")<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Algorithms and Data Structure_](#artifact-algorithms-and-data-structures "Artifact Algorithms and Data Structure")<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Algorithms and Data Structures_](#artifact-algorithms-and-data-structures "Artifact Algorithms and Data Structures")<br/>
 &nbsp;[Databases](#databases "Databases")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Databases_](#artifact-databases "Artifact Databases")<br/>
 &nbsp;[Reviews](#reviews "ePortfolio Reviews")
@@ -25,7 +25,7 @@ Through my ePortfolio, I want to share my passion for computer science and dedic
 I was admitted to Southern New Hamshire University in May 2021 and started taking some courses. In late 2021, I enrolled in the Computer Science program with the short-term goal of obtaining an Associate in Science in Computer Science. I wanted to test how my little programming skills will help me in the Computer Science program if I pursue my bachelor's. After completing my associate degree in March 2023, I became interested in pursuing a Bachelor of Science in Computer Science. I continued after the associate without taking a break in April 2023. 
 This program has inspired me to pursue excellence in computer science, driving me to continually enhance my skills and knowledge in programming and application development. It has ignited a passion within me to explore new technologies and contribute meaningfully to the field of IT.
 
-While in the Computer Science Program, I've acquired numerous abilities, skills, and knowledge integral to succeeding in the field. One area of notable improvement has been my attention to detail and security mindset, which are essential traits for effective software engineering and development. Embracing organization and caution in my code development process, breaking down tasks into manageable blocks, and incorporating rigorous testing into my workflow have been instrumental in refining these skills. As projects increase in complexity, the importance of thorough testing becomes even more evident, ensuring the integrity and robustness of the software. Cultivating a tester mindset and a strong focus on security are ongoing endeavors that contribute significantly to my professional growth.
+While in the Computer Science Program, I've acquired numerous abilities, skills, and knowledge integral to succeeding in the field. Some areas of notable improvement have been computer networking, computer security mindset, software design, and my attention to detail which are essential traits for effective software engineering and development. Embracing organization and caution in my code development process, breaking down tasks into manageable blocks, and incorporating rigorous testing into my workflow have been instrumental in refining these skills. As projects increase in complexity, the importance of thorough testing becomes even more evident, ensuring the integrity and robustness of the software. Cultivating a tester mindset and a strong focus on security are ongoing endeavors that contribute significantly to my professional growth.
 
 Moreover, participating in collaborative projects within the program has allowed me to refine my communication and teamwork skills, which are essential for navigating the dynamic landscape of software development. Additionally, the program's emphasis on staying abreast of emerging technologies has inspired me to remain curious and continuously expand my skill set to stay ahead in this ever-evolving field. Furthermore, the exposure to real-world coding challenges through practical assignments has honed my problem-solving abilities and fostered a resilient attitude toward overcoming obstacles. Lastly, the supportive learning environment and guidance from experienced faculty members have instilled in me confidence and determination to excel in my future endeavors in computer science.
 
@@ -152,7 +152,7 @@ Code reviews elevate team capabilities, pinpoint faults in their nascent stages,
 ### _Videos Link To Code Review_
 
 <div style="text-align: center;">
-    <a href="CodeReview" title="Artifacts Code Review">
+    <a href="https://kowustep8719.github.io/CodeReview/" title="Artifacts Code Review">
         <img src="https://img.shields.io/badge/Artifacts-Refinement_Plan_and_Code_Review-blue.svg?style=for-the-badge&logo=codereview" alt="Artifacts: Refinement Plan and Code Review" />
     </a>
 </div>
@@ -167,7 +167,7 @@ Code reviews elevate team capabilities, pinpoint faults in their nascent stages,
 
 <img id="softwaredesign" src="assets/img/softwareengineering.png" alt="Software Engineering and Design" title="Software Engineering and Design" />
 
-Through my demonstration in the code review, that is, the [artifact code review](CodeReview "Refinement Plan and Code Review"), the selected artifact for the Software Engineering and Design category is the "Treasure Maze Hunt Game." The artifact is obtained from my previous course in the computer science program CS370-Current/Emerging Trends in CS in 2023. The goal is to create a deep Q-learning algorithm to build a model that trains intelligent agents to move through a maze to find a hidden treasure. I selected this artifact to include in my ePortfolio because it includes many features and characteristics of the Software Engineering and Design process. Developing the maze navigation path involves various software design and engineering aspects, including problem-solving, system architecture, modularity, testing, optimization, user experience design, and documentation. The program was developed using Python and integrated into Jupyter Notebook.
+Through my demonstration in the code review, that is, the [Refinement Plan and Code Review](https://kowustep8719.github.io/CodeReview "Artifact Code Review"), the selected artifact for the Software Engineering and Design category is the "Treasure Maze Hunt Game." The artifact is obtained from my previous course in the computer science program CS370-Current/Emerging Trends in CS in 2023. The goal is to create a deep Q-learning algorithm to build a model that trains intelligent agents to move through a maze to find a hidden treasure. I selected this artifact to include in my ePortfolio because it includes many features and characteristics of the Software Engineering and Design process. Developing the maze navigation path involves various software design and engineering aspects, including problem-solving, system architecture, modularity, testing, optimization, user experience design, and documentation. The program was developed using Python and integrated into Jupyter Notebook.
 
 This artifact represents a culmination of the software design and engineering process, which is exemplified by the creation of the "Treasure Maze Hunt Game: Human Brain and Artificial Neural Network. The primary objective was to develop an algorithm model capable of training an intelligent agent, referred to as the Pirate, to navigate through a maze in search of a concealed treasure. It demanded problem-solving, system architecture, and optimization to ensure the efficient operation of the intelligent agent within the maze. Each facet of the algorithm, from pathfinding logic to obstacle avoidance strategies, required careful consideration and implementation to achieve desired outcomes. Modularity and testing played pivotal roles in the development process, emphasizing the importance of iterative refinement and quality assurance in software engineering. Through continuous enhancement and testing iterations, the algorithm underwent refinement, resulting in a well-structured and maintainable maze navigation system. In essence, the "Treasure Maze Hunt Game epitomized the convergence of creativity and technical proficiency in software design and engineering. By harnessing advanced algorithms and reinforcement learning techniques, this artifact exemplified the relentless pursuit of excellence in crafting intelligent systems capable of navigating complex environments, which is a hallmark of the computer science discipline.
 
@@ -188,7 +188,7 @@ I demonstrated an ability to use well-founded and innovative techniques, skills,
 ### _Artifact Software Design and Engineering_
 
 <div style="text-align: center;">
-    <a href="CS370" title="Artifact: Software Design and Engineering">
+    <a href="https://kowustep8719.github.io/CS370" title="Artifact: Software Design and Engineering">
         <img src="https://img.shields.io/badge/Artifact-Software_Design_and_Engineering-orange.svg?style=for-the-badge&logo=paloaltosoftware" alt="Artifact: Software Design and Engineering" />
     </a>
 </div>
@@ -203,7 +203,7 @@ I demonstrated an ability to use well-founded and innovative techniques, skills,
 
 <img id="algorithms" src="assets/img/algorithms.png" alt="Algorithms and Data Structure" title="Algorithms and Data Structure" />
 
-The artifact chosen for the Algorithms and Data Structures is the **Inventory Mobile App**, as demonstrated in the [artifact code review](CodeReview "Refinement Plan and Code Review"). I selected it from my computer science course, CS-360: Mobile Architecture and Programming, which I took in 2023 during the January – February term. The artifact aims to develop a mobile app that can track inventories of items in warehouses or shops and can be accessed through Android mobile devices. The application is built using the Java programming language and linked with the relational database SQLite. The development and programming were facilitated by using the Android Studio IDE. Also, comprehensive testing, such as unit tests and application execution, was conducted within the Android Studio environment to ensure compatibility and performance across various Android platforms. 
+The artifact chosen for the Algorithms and Data Structures is the **Inventory Mobile App**, as demonstrated in the [Refinement Plan and Code Review](https://kowustep8719.github.io/CodeReview "Artifact Code Review"). I selected it from my computer science course, CS-360: Mobile Architecture and Programming, which I took in 2023 during the January – February term. The artifact aims to develop a mobile app that can track inventories of items in warehouses or shops and can be accessed through Android mobile devices. The application is built using the Java programming language and linked with the relational database SQLite. The development and programming were facilitated by using the Android Studio IDE. Also, comprehensive testing, such as unit tests and application execution, was conducted within the Android Studio environment to ensure compatibility and performance across various Android platforms. 
 
 The chosen artifact revolves around Algorithms and Data Structures, encompassing a comprehensive process of algorithm design and implementation. It entails considerations regarding the interaction of users with various algorithms and data structures implemented within the application. It entails considerations regarding the interaction of users with various algorithms and data structures implemented within the application. Emphasis is placed on ensuring intuitive utilization of the algorithms and their functionalities, incorporating industry-standard symbols and icons for a seamless user experience.
 
@@ -223,11 +223,11 @@ Throughout the process, I ensured adherence to established computer science prac
 
 
 ### 
-Artifact Software Engineering and Design
+Artifact: Algorithms and Data Structures
 
 <div style="text-align: center;">
-	<a href="CS370" title="Artifact: Software Engineering and Design">
-		<img src="https://img.shields.io/badge/Artifact-Software_Engineering_and_Design-orange.svg?style=for-the-badge&logo=the software" alt="Artifact: Software Engineering and Design" />
+	<a href="https://kowustep8719.github.io/CS360" title="Artifact: Algorithms and Data Structures">
+		<img src="https://img.shields.io/badge/Algorithms_and_Data_Structures-orange.svg?style=for-the-badge&logo=the algorithm" alt="Artifact: Algorithms and Data Structures" />
 	</a>
 </div>
 
@@ -241,7 +241,7 @@ Artifact Software Engineering and Design
 
 <img id="databases" src="assets/img/databases.png" alt="Databases" title="Databases" />
 
-The artifact selected for the databases is the Traveler Website, as demonstrated in the [artifact code review](CodeReview "Refinement Plan and Code Review"). This traveler website was created during my computer science course, CS-465: Full Stack Development I. I took this course in the year 2023. The website was developed using the JavaScript application, which uses the Node.js runtime environment with the Express framework for the back-end and the Angular framework for the front-end. I also used HTML and CSS to structure the content on the travel website pages. The application combines both Node.js (for the back-end) and Angular (for the front-end), making it a MEAN (MongoDB, Express.js, Angular, Node.js) stack application. It also integrates with MongoDB using Mongoose for database operations.
+The artifact selected for the databases is the Traveler Website, as demonstrated in the [artifact code review](https://kowustep8719.github.io/CodeReview "Refinement Plan and Code Review"). This traveler website was created during my computer science course, CS-465: Full Stack Development I. I took this course in the year 2023. The website was developed using the JavaScript application, which uses the Node.js runtime environment with the Express framework for the back-end and the Angular framework for the front-end. I also used HTML and CSS to structure the content on the travel website pages. The application combines both Node.js (for the back-end) and Angular (for the front-end), making it a MEAN (MongoDB, Express.js, Angular, Node.js) stack application. It also integrates with MongoDB using Mongoose for database operations.
 
 I added the traveler website artifact to my ePortfolio because it demonstrates several valuable skills and competencies in databases to potential employers, recruiters, or educational institutions. Also, I added this artifact to my ePortfolio because I would like to effectively showcase my technical skills, problem-solving abilities, and creativity to potential employers to increase my chances of hiring. The integrated authentication mechanisms, RESTful API consumption, and dynamic content rendering demonstrate my ability to create functional and secure web applications tailored for real-world scenarios, which employers always want to see from their employees. Upon running the travel website, the Angular Live Development Server initiates and starts listening on localhost:4200, prompting users to open their browser and navigate to http://localhost:4200/. The server compiles successfully, generating the necessary files for the web application to function correctly. The application fetches data from the MongoDB database as the server runs, triggering HTTP GET requests to retrieve trip information. Each request is processed, and the corresponding trips are fetched and displayed on the website.
 
@@ -264,7 +264,7 @@ I was able to design and evaluate computing solutions by developing the CRUD mod
 ### _Artifact Databases_
 
 <div style="text-align: center;">
-	<a href="CS465" title="Artifact: Databases">
+	<a href="https://kowustep8719.github.io/CS360" title="Artifact: Databases">
 		<img src="https://img.shields.io/badge/Artifact-Databases-indigo.svg?style=for-the-badge&logo=microsoftaccess" alt="Artifact: Databases" />
 	</a>
 </div>

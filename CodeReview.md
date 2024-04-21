@@ -31,7 +31,7 @@ The artifact chosen for the software design and engineering code review is the T
 
 ---
 
-Artifact original files repository at [CS370 Current and Emerging Trends in Computer Science](https://github.com/kowustep8719/kowustep8719.github.io/tree/main/original/CS370 "Treasure Hunt Game Original Repository")
+Artifact original files repository at [CS370 Current and Emerging Trends in Computer Science](https://github.com/kowustep8719/kowustep8719.github.io/original/CS370 "Treasure Hunt Game Original Repository")
 
 ---
 
@@ -46,7 +46,7 @@ Optimizing SQL queries for better performance, utilizing prepared statements or 
 
 ---
 
-Artifact original files repository at [CS360 Mobile Architecture and Programming](https://github.com/kowustep8719/kowustep8719.github.io/tree/main/original/CS360 "Inventory Mobile App Original Repository")
+Artifact original files repository at [CS360 Mobile Architecture and Programming](https://github.com/kowustep8719/kowustep8719.github.io/original/CS360 "Inventory Mobile App Original Repository")
 
 ---
 
@@ -58,7 +58,7 @@ Looking ahead, the planned enhancement involves refining the website's user auth
 
 ---
 
-[CS465 Full Stack Development I](https://github.com/kowustep8719/kowustep8719.github.io/tree/main/original/CS465 "Traveler Website Original Repository")
+[CS465 Full Stack Development I](https://github.com/kowustep8719/kowustep8719.github.io/original/CS465 "Traveler Website Original Repository")
 
 
 ---
@@ -66,11 +66,14 @@ Looking ahead, the planned enhancement involves refining the website's user auth
     <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
         <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://youtu.be/389YtSmOUXU?feature=shared" title="Code Review Of The Three Artifacts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-    <p><em>Figure 1 - Code Review Video of the three artifact</em></p>
+    <p><em>Figure 1 - Code Review Video of the three artifacts</em></p>
 </div>
 
 <div style="text-align: right;">
-    <a href="#">
+    <a href="#top">
         <button style="font-size: 10px; font-weight: 500; background: #800080; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #800080; padding: 5px 8px;">Back to Top &#8593;</button>
     </a>
 </div>
+
+<!-- Add an anchor with id="top" at the top of your page -->
+<a id="top"></a>

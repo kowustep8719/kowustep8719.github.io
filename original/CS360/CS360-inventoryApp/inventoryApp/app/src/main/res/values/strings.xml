@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">inventoryApp</string>
+    <string name="sms_subscribe">SMS Subscribe</string>
+    <string name="allows_the_application_to_send_sms_alert_for_low_inventory">Allows the application to send SMS alert for low inventory.</string>
+</resources>
