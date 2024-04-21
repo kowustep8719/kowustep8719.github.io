@@ -31,7 +31,7 @@ The artifact chosen for the software design and engineering code review is the T
 
 ---
 
-Artifact original files repository at [CS370 Current and Emerging Trends in Computer Science](https://github.com/kowustep8719/kowustep8719.github.io/original/CS370 "Treasure Hunt Game Original Repository")
+Artifact original files repository at [CS370 Current and Emerging Trends in Computer Science](kowustep8719.github.io/original/CS370 "Treasure Hunt Game Original Repository")
 
 ---
 
@@ -46,7 +46,7 @@ Optimizing SQL queries for better performance, utilizing prepared statements or 
 
 ---
 
-Artifact original files repository at [CS360 Mobile Architecture and Programming](https://github.com/kowustep8719/kowustep8719.github.io/original/CS360 "Inventory Mobile App Original Repository")
+Artifact original files repository at [CS360 Mobile Architecture and Programming](kowustep8719.github.io/original/CS360 "Inventory Mobile App Original Repository")
 
 ---
 
@@ -58,7 +58,7 @@ Looking ahead, the planned enhancement involves refining the website's user auth
 
 ---
 
-[CS465 Full Stack Development I](https://github.com/kowustep8719/kowustep8719.github.io/original/CS465 "Traveler Website Original Repository")
+[CS465 Full Stack Development I](kowustep8719.github.io/original/CS465 "Traveler Website Original Repository")
 
 
 ---
@@ -70,10 +70,7 @@ Looking ahead, the planned enhancement involves refining the website's user auth
 </div>
 
 <div style="text-align: right;">
-    <a href="#top">
-        <button style="font-size: 10px; font-weight: 500; background: #800080; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #800080; padding: 5px 8px;">Back to Top &#8593;</button>
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #6A5ACD; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #6A5ACD; padding: 5px 8px;">Back to Top &#8593;</button>
     </a>
 </div>
-
-<!-- Add an anchor with id="top" at the top of your page -->
-<a id="top"></a>

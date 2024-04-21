@@ -104,5 +104,5 @@ The narrative presented here accompanies the enhancements to an artifact focused
 
 ---
 
-<small>_[Updated April, 2024 by Stephen Owusu-Agyekum]_</small>
+<small>_[April, 2024 by Stephen Owusu-Agyekum]_</small>
 
